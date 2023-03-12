@@ -1,4 +1,4 @@
-package Github.Sorting;
+package Sorting;
 
 import java.util.Arrays;
 
